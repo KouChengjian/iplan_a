@@ -4,10 +4,9 @@
 + 期望职位：Android发开工程师 <br/>
 + 手机 ：136 5239 0539 <br/>
 + 邮箱 ：kouchengjian@163.com <br/>
-+ 
+
 #### 教育背景
  + 西安航空学校&ensp;&ensp;|&ensp;&ensp;专科&ensp;&ensp;|&ensp;&ensp;电气自动化专业&ensp;&ensp;|&ensp;&ensp;14届
- + 主修课程
 
 #### IT技能
 + 编程语言：Java，Konlin等
