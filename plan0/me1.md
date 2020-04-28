@@ -1,23 +1,23 @@
 ## 寇成坚
 #### 个人信息
-+ 5年Android开发经验
++ 6年Android开发经验
 + 期望职位：Android发开工程师 <br/>
-+ 手机 ：136 5239 0539 <br/>
++ 手机 ：13312964576 <br/>
 + 邮箱 ：kouchengjian@163.com <br/>
 
 #### 教育背景
  + 西安航空学校&ensp;&ensp;|&ensp;&ensp;专科&ensp;&ensp;|&ensp;&ensp;电气自动化专业&ensp;&ensp;|&ensp;&ensp;14届
 
 #### IT技能
-+ 编程语言：Java，Konlin等
++ 编程语言：Java，Kotlin等
 + 熟悉常用使用设计模式，数据结构，常用算法。熟悉Android高性能优化开发
 + 熟悉使用 Android 开发中常用的库。包括Dagger+Retrofit2+OkHttp3，Glide，EventBus等
 + 熟悉使用 Android 开发中常用第三方服务，使用微信、支付宝第三方支付，环信，极光，腾讯cos、云通信，点播等。
 + 熟悉 Eclipse, Android Studio, 等等开发软件的使用
 + 熟悉 Git/SVN 版本控制工具的使用
 + 熟悉Windows/OS X 开发环境
-+ 参与后台服务开发，了解Spring、Spring Boot框架下的业务开发
-+ 参与管理系统开发，了解Html、Css、js开发前端页面
++ 参与后台服务开发，在SSM框架中进行业务开发
++ 参与管理系统、公众号、小程序开发
 
 #### 项目经历
 + 2018/05—至今&ensp;&ensp;|&ensp;&ensp;上医帮手&ensp;&ensp;|&ensp;&ensp;深圳上医实业有限公司
