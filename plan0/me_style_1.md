@@ -6,7 +6,7 @@
 </center> -->
 
 # 寇成坚
-期望职位：前端发开工程师
+期望职位：前端工程师
 手机 ：136 5239 0539
 邮箱 ：kouchengjian@163.com
 
@@ -27,14 +27,14 @@
 西安航空学校　　|　　专科　　|　　电气自动化专业
 
 ## 专业技能
-熟悉Android应用框架，了解Android高性能编程及调优。<br/>
-熟悉Eclipse 、Android Studio、webstore等开发环境。<br/>
-熟悉使用Retrofit2、OkHttp3、Glide等第三方库。<br/>
-熟悉使用微信、支付宝第三方支付，环信，极光，腾讯cos、云通信，点播等第三方服务。<br/>
-熟练使用Git、SVN版本控制工具。<br/>
-了解Kotlin，及其使用、混合等开发。<br/>
-了解Flutter，基本使用。C<br/>
-了解HTML、CSS、JS基本使用，且了解Vue框架，使用uni-app开发公众号、小程序。<br/>
+熟悉Android应用框架，了解Android高性能编程及调优。
+熟练Eclipse 、Android Studio、webstore等开发环境。
+熟悉使用Retrofit2、OkHttp3、Glide等第三方库。
+熟悉使用微信、支付宝第三方支付，环信，极光，腾讯cos、云通信，点播等第三方服务。
+熟练使用Git、SVN版本控制工具。
+熟悉Kotlin，及其使用、混合等开发。
+熟悉Flutter，基本使用。
+熟悉HTML、CSS、JS基本使用，且了解Vue框架，使用uni-app开发公众号、小程序。
 
 
 ## 项目经历
